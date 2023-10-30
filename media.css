@@ -12,7 +12,7 @@
     background-color: #fff;
     transition: all 300ms ease;
     z-index: 1000;
-    padding-top: 15rem;
+    padding-top: 8rem;
   }
 
   .hero img {
@@ -94,7 +94,7 @@
 
   .priority {
     width: 50%;
-    height: 40rem;
+    height: 43rem;
   }
 
   .faq {
@@ -122,6 +122,10 @@
 @media only screen and (max-width: 47.9375em) {
   .hero p {
     width: 100%;
+  }
+
+  .why-headers h3 {
+    font-size: 1.5rem;
   }
 
   .priority {

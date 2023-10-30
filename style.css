@@ -408,9 +408,8 @@ li {
 }
 
 .slider .slider-track {
-  animation: scroll 40s linear infinite;
+  animation: scroll 30s linear infinite;
   display: flex;
-  flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
   width: fit-content;
